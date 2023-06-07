@@ -1,5 +1,7 @@
 # npm-lodash
 
+[npm-lodash](https://www.npmjs.com/package/npm-lodash)  
+
 `npm login`  
 
 `npm publish`  
