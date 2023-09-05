@@ -6,6 +6,8 @@
 
 `npm publish`  
 
+update package.json version
+
 check npm `https://www.npmjs.com/settings/jacobhsu/packages`  
 
 ## Reference
